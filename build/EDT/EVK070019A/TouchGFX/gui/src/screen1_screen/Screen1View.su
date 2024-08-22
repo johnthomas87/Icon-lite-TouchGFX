@@ -1,0 +1,39 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+Screen1ViewBase.hpp:94:18:virtual void Screen1ViewBase::runRevClicked()	0	static
+Screen1ViewBase.hpp:98:18:virtual void Screen1ViewBase::stopRunClicked()	0	static
+Screen1ViewBase.hpp:102:18:virtual void Screen1ViewBase::runFwdClicked()	0	static
+Screen1ViewBase.hpp:106:18:virtual void Screen1ViewBase::keyBtn1Clicked()	0	static
+Screen1View.cpp:49:6:virtual void Screen1View::tearDownScreen()	0	static
+Screen1View.hpp:12:13:Screen1View::~Screen1View()	8	static
+Screen1View.hpp:12:13:virtual Screen1View::~Screen1View()	8	static
+basic_string.h:509:7:std::__cxx11::basic_string<_CharT, _Traits, _Alloc>::basic_string(const _CharT*, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]	24	static
+AbstractButtonContainer.hpp:70:10:void touchgfx::AbstractButtonContainer::setAlpha(uint8_t)	0	static
+basic_string.h:6388:3:float std::__cxx11::stof(const string&, std::size_t*)	32	static
+Screen1View.cpp:10:1:Screen1View::Screen1View()	8	static
+Screen1View.cpp:16:13:static std::__cxx11::string Screen1View::removeChar(std::__cxx11::string, char)	24	static
+Screen1View.cpp:22:13:static std::__cxx11::string Screen1View::removeLeadingZeros(std::__cxx11::string)	16	static
+Screen1View.cpp:138:13:std::__cxx11::string Screen1View::unicodeToStdString(const UnicodeChar*)	16	static
+BoxWithBorderButtonStyle.hpp:123:18:void touchgfx::BoxWithBorderButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::ClickButtonTrigger]	0	static
+Screen1View.cpp:404:1:cpp)	8	static
+Screen1View.cpp:36:6:virtual void Screen1View::uart_Data(char*)	8	static
+Screen1View.cpp:54:6:void Screen1View::isValidInput()	64	static
+Screen1View.cpp:194:6:void Screen1View::deleteInput()	72	static
+Screen1View.cpp:152:6:virtual void Screen1View::percentClicked()	40	static
+Screen1View.cpp:167:6:virtual void Screen1View::depthOnClicked()	32	static
+Screen1View.cpp:181:6:virtual void Screen1View::percentOnClicked()	32	static
+Screen1View.cpp:215:6:void Screen1View::calculateAndRender()	72	static
+Screen1View.cpp:234:6:virtual void Screen1View::keyOneClicked()	64	static
+Screen1View.cpp:246:6:virtual void Screen1View::keyTwoClicked()	64	static
+Screen1View.cpp:257:6:virtual void Screen1View::keyThreeClicked()	64	static
+Screen1View.cpp:267:6:virtual void Screen1View::keyFourClicked()	64	static
+Screen1View.cpp:277:6:virtual void Screen1View::keyFiveClicked()	64	static
+Screen1View.cpp:287:6:virtual void Screen1View::keySixClicked()	64	static
+Screen1View.cpp:297:6:virtual void Screen1View::keySevenClicked()	64	static
+Screen1View.cpp:307:6:virtual void Screen1View::keyEightClicked()	64	static
+Screen1View.cpp:317:6:virtual void Screen1View::keyNineClicked()	64	static
+Screen1View.cpp:327:6:virtual void Screen1View::keyZeroClicked()	64	static
+Screen1View.cpp:343:6:virtual void Screen1View::keyDoneClicked()	40	static
+Screen1View.cpp:364:6:virtual void Screen1View::keyDeleteClicked()	24	static
+Screen1View.cpp:41:6:virtual void Screen1View::setupScreen()	0	static

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group2" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_2ZYQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+      <Text Id="__SingleUse_THQN" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_739R" Alignment="Left" TypographyId="NotoSansMedium">
+        <Translation Language="GB">0.0</Translation>
+      </Text>
+      <Text Id="__SingleUse_TQ27" Alignment="Center" TypographyId="NotoSansMedium">
+        <Translation Language="GB">&lt;value&gt;"</Translation>
+      </Text>
+      <Text Id="__SingleUse_81SZ" Alignment="Left" TypographyId="NotoSansMedium">
+        <Translation Language="GB">0.00</Translation>
+      </Text>
+      <Text Id="__SingleUse_ML89" Alignment="Center" TypographyId="NotoSansMedium">
+        <Translation Language="GB">&lt;value&gt;%</Translation>
+      </Text>
+      <Text Id="__SingleUse_SICD" Alignment="Left" TypographyId="Notosans">
+        <Translation Language="GB">0.00</Translation>
+      </Text>
+      <Text Id="__SingleUse_G91W" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">&lt;value&gt;%</Translation>
+      </Text>
+      <Text Id="__SingleUse_4G7X" Alignment="Left" TypographyId="NotoSansMedium">
+        <Translation Language="GB">0.00</Translation>
+      </Text>
+      <Text Id="__SingleUse_KAYH" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0.00</Translation>
+      </Text>
+      <Text Id="__SingleUse_6JKC" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0.0</Translation>
+      </Text>
+      <Text Id="__SingleUse_IPF4" Alignment="Left" TypographyId="Notosans">
+        <Translation Language="GB">0.00</Translation>
+      </Text>
+      <Text Id="__SingleUse_W3Z9" Alignment="Left" TypographyId="Notosans">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LP7L" Alignment="Left" TypographyId="Largenoto">
+        <Translation Language="GB">0.00</Translation>
+      </Text>
+      <Text Id="__SingleUse_OFXP" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">2</Translation>
+      </Text>
+      <Text Id="__SingleUse_LCM3" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">3</Translation>
+      </Text>
+      <Text Id="__SingleUse_W900" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">4</Translation>
+      </Text>
+      <Text Id="__SingleUse_YW3M" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">7</Translation>
+      </Text>
+      <Text Id="__SingleUse_VBG2" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">5</Translation>
+      </Text>
+      <Text Id="__SingleUse_D668" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">6</Translation>
+      </Text>
+      <Text Id="__SingleUse_IFXV" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">8</Translation>
+      </Text>
+      <Text Id="__SingleUse_R16N" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">9</Translation>
+      </Text>
+      <Text Id="__SingleUse_1Q3Y" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_UG2L" Alignment="Center" TypographyId="Notosans">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_LF11" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">0.00 - 100.00</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Largenoto" Font="NotoSans.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Notosans" Font="NotoSans.ttf" Size="37" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="NotoSansMedium" Font="NotoSans.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="a-z,0-9,A-Z" />
+  </Typographies>
+</TextDatabase>

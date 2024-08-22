@@ -1,0 +1,9 @@
+edt_bsp_sdram.c:95:9:EDT_SDRAM_DeInit	8	static
+edt_bsp_sdram.c:120:6:EDT_SDRAM_Initialization_sequence	32	static
+edt_bsp_sdram.c:49:9:EDT_SDRAM_Init	16	static
+edt_bsp_sdram.c:190:6:EDT_SDRAM_LinkDMA	24	static
+edt_bsp_sdram.c:272:9:EDT_SDRAM_ReadData	8	static
+edt_bsp_sdram.c:291:9:EDT_SDRAM_ReadData_DMA	8	static
+edt_bsp_sdram.c:310:9:EDT_SDRAM_WriteData	8	static
+edt_bsp_sdram.c:329:9:EDT_SDRAM_WriteData_DMA	8	static
+edt_bsp_sdram.c:346:9:EDT_SDRAM_Sendcmd	8	static

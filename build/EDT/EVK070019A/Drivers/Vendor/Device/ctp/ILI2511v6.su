@@ -1,0 +1,10 @@
+ILI2511v6.c:125:6:ili2511_Reset	0	static
+ILI2511v6.c:270:6:ili2511_TS_GetXY	8	static
+ILI2511v6.c:369:9:ili2511_TS_ITStatus	0	static
+ILI2511v6.c:136:10:ili2511_ReadID	24	static
+ILI2511v6.c:180:6:ili2511_TS_Start	24	static
+ILI2511v6.c:201:9:ili2511_TS_DetectTouch	8	static
+ILI2511v6.c:352:6:ili2511_TS_DisableIT	0	static
+ILI2511v6.c:382:6:ili2511_TS_ClearIT	0	static
+ILI2511v6.c:337:6:ili2511_TS_EnableIT	0	static
+ILI2511v6.c:104:6:ili2511_Init	8	static

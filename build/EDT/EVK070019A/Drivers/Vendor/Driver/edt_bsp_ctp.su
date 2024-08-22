@@ -1,0 +1,17 @@
+edt_bsp_ctp.c:68:6:TS_IO_Init	16	static
+edt_bsp_ctp.c:80:6:EDT_TS_Set_Handle	16	static
+edt_bsp_ctp.c:93:6:TS_IO_Write	32	static
+edt_bsp_ctp.c:105:9:TS_IO_Read	32	static
+edt_bsp_ctp.c:121:6:TS_IO_Read_Multi	24	static
+edt_bsp_ctp.c:126:19:TS_IO_Read_Buffer	24	static
+edt_bsp_ctp.c:146:6:TS_IO_Delay	16	static
+edt_bsp_ctp.c:215:19:TS_IO_IsDeviceReady	0	static
+edt_bsp_ctp.c:237:9:EDT_TS_Init	16	static
+edt_bsp_ctp.c:262:9:EDT_TS_DeInit	0	static
+edt_bsp_ctp.c:272:9:EDT_TS_ITConfig	8	static
+edt_bsp_ctp.c:283:9:EDT_TS_ITGetStatus	0	static
+edt_bsp_ctp.c:293:6:EDT_TS_SetDetected	0	static
+edt_bsp_ctp.c:297:6:EDT_TS_GetDetected	0	static
+edt_bsp_ctp.c:306:9:EDT_TS_GetState	96	static
+edt_bsp_ctp.c:477:6:EDT_TS_ITClear	0	static
+edt_bsp_ctp.c:489:9:EDT_TS_ResetTouchData	0	static

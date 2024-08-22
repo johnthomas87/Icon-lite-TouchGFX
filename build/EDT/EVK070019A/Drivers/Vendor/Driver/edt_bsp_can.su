@@ -1,0 +1,11 @@
+edt_bsp_can.c:102:6:EDT_CANx_Config	48	static
+edt_bsp_can.c:146:6:EDT_CANx_DeInit	0	static
+edt_bsp_can.c:61:7:EDT_CANx_Init	8	static
+edt_bsp_can.c:162:19:EDT_CAN_Transmit	16	static
+edt_bsp_can.c:193:19:EDT_CAN_Receive	8	static
+edt_bsp_can.c:216:6:EDT_CANx_Baud	0	static
+edt_bsp_can.c:272:13:EDT_CAN_RxFifo0MsgPendingCallback	8	static
+edt_bsp_can.c:262:6:HAL_CAN_RxFifo0MsgPendingCallback	8	static
+edt_bsp_can.c:289:6:CAN2_TX_IRQHandler	0	static
+edt_bsp_can.c:297:6:CAN2_RX0_IRQHandler	0	static
+edt_bsp_can.c:304:6:HAL_CAN_TxCpltCallback	0	static
